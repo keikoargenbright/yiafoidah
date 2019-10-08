@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aejoosheef.florentinkraemer.com/sitemap.xml
